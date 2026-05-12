@@ -100,7 +100,6 @@ The system provides:
 - Cost-effective approach
 - User-friendly interface
 - Suitable for pediatric healthcare
-- Improved accuracy using ensemble and deep learning models
 
 --- 
 
@@ -110,3 +109,14 @@ The system provides:
 - Cloud-based disease monitoring
 - Improved deep learning models for higher accuracy
 - Larger and more diverse datasets for better prediction
+
+---
+
+## Conclusion
+This project demonstrates how artificial intelligence and machine learning can be used in healthcare for early detection of genetic diseases in children. By using pupillometry and advanced classification techniques, the system provides a reliable, non-invasive, and efficient diagnostic support solution.
+
+---
+
+## Author
+M. Gayathhri
+B. Tech - Computer Science and Engineering
