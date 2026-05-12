@@ -1,0 +1,2 @@
+# Automatic-Detection-of-Genetic-Diseases-in-Pediatric-Age-using-Pupillometry
+A machine learning and deep learning based system for the early detection of genetic diseases in pediatric patients using pupillometry. The project analyzes pupil response data using algorithms like SVM, ELM, LSTM, and BiLSTM to provide a non-invasive, cost-effective, and accurate disease prediction system with a user-friendly Tkinter GUI.
