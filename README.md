@@ -46,23 +46,67 @@ The main purpose of this project is to:
 
 ## Data Source
 The project uses pupillometry datasets containing pupil response measurements collected under controlled lighting conditions.
-# Dataset Includes:
-Maximum pupil size
-Minimum pupil size
-Pupil dilation variation
-Change rate
-Latency
-Mean constriction velocity
-
+### Dataset Includes:
+- Maximum pupil size
+- Minimum pupil size
+- Pupil dilation variation
+- Change rate
+- Latency
+- Mean constriction velocity
 Data from both left and right eyes is used for disease classification.
 
 ---
 
-## Features / Highlights
-- Upload and preprocess pupillometry datasets
-- Feature extraction and feature reduction
-- Disease prediction using SVM, Ensemble Learning, ELM, LSTM, and BiLSTM
-- Accuracy comparison graph for multiple models
-- User-friendly Tkinter GUI application
-- Non-invasive and efficient disease detection approach
-- Visualization of pupil diameter and prediction results
+## Project Workflow
+1. Upload Dataset
+2. Run Data Filtering
+3. Extract Important Features
+4. Reduce Unnecessary Features
+5. Train ML/DL Models
+6. Evaluate Accuracy and Performance
+7. Generate Graphs and Visualizations
+8. Predict Disease from Test Data
+
+---
+
+## System Architecture
+The system follows the below process:
+- Data Acquisition
+- Data Filtering
+- Feature Extraction
+- Feature Reduction
+- Model Training
+- Ensemble Classification
+- Disease Prediction
+- Result Visualization
+
+---
+
+## Output
+The system provides:
+- Prediction results as:
+    - Disease Detected
+    - No Disease Detected
+- Accuracy scores for all algorithms
+- Sensitivity and specificity analysis
+- Accuracy comparison graph
+- Pupil diameter visualization graph
+
+---
+
+## Advantages
+- Non-invasive diagnosis
+- Faster disease detection
+- Cost-effective approach
+- User-friendly interface
+- Suitable for pediatric healthcare
+- Improved accuracy using ensemble and deep learning models
+
+--- 
+
+## Future Enhancements
+- Integration with real-time pupillometry devices
+- Deployment as a web application
+- Cloud-based disease monitoring
+- Improved deep learning models for higher accuracy
+- Larger and more diverse datasets for better prediction
