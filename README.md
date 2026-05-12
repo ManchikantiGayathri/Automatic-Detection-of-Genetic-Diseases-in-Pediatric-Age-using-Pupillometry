@@ -22,3 +22,28 @@ The application uses Python with a Tkinter-based GUI and implements multiple alg
 - **Deep Learning**: TensorFlow / Keras
 - **Data Processing**: Pandas, NumPy
 - **Visualization** : Matplotlib
+
+---
+
+## Models Implemented
+- Support Vector Machine (SVM)
+- Ensemble Voting Classifier
+- Extreme Learning Machine (ELM)
+- Long Short-Term Memory (LSTM)
+- Bidirectional LSTM (BiLSTM)
+
+---
+
+## Data Source
+The project uses pupillometry datasets containing pupil response measurements collected under controlled lighting conditions. The dataset includes features such as pupil dilation, latency, maximum and minimum pupil size, and constriction velocity for both eyes.
+
+---
+
+## Features / Highlights
+- Upload and preprocess pupillometry datasets
+- Feature extraction and feature reduction
+- Disease prediction using SVM, Ensemble Learning, ELM, LSTM, and BiLSTM
+- Accuracy comparison graph for multiple models
+- User-friendly Tkinter GUI application
+- Non-invasive and efficient disease detection approach
+- Visualization of pupil diameter and prediction results
