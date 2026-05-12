@@ -119,4 +119,5 @@ This project demonstrates how artificial intelligence and machine learning can b
 
 ## Author
 M. Gayathhri
+
 B. Tech - Computer Science and Engineering
